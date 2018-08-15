@@ -11,7 +11,7 @@ without changing user interface
 so user will see **١**
 but in the code it will converted to **1**
 
-##What you need to do ?
+## What you need to do ?
 is copying and pasting `ReplacedArabicDigitsWithEnglish.swift` to your project
 
 and then just add `.replacedArabicDigitsWithEnglish`
